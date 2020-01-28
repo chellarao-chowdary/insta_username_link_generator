@@ -3,6 +3,8 @@
 Hey, Hi 
 This bot generates an insta_username link directly in telegram which you can share
 
+! pip install pyTelegramBotAPI
+
 To use the above code just copy your bot token  and replace it in bot.py
 
 
